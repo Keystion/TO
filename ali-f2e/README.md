@@ -4,6 +4,7 @@
 ## Abount
 
 [Taobao](http://www.taobao.com/)首页`console`出现的26个招聘单词；这里就是个人对这26个单词的简要概述；
+
 `Angular`
 
 `Backbone` 
