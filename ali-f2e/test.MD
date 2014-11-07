@@ -1,101 +1,101 @@
+Markdown 语法使用说明
+=====================
 
-# 2014年10月每日福利（QQ群号236076846）
-
-- [关于Unicode和URL encoding入门的一切以及注意事项](http://www.cnblogs.com/hh54188/p/3249904.html)
-- [CSS3中border-image属性详解](http://beyondweb.cn/article_detail.php?id=63)
-- [一行代码中的学问](http://arqex.com/939/learning-much-javascript-one-line-code) - 强烈推荐阅读
-- [WebGL系列](http://blog.csdn.net/lufy_legend)
-- [HTML5 Canvas 教程](http://www.html5canvastutorials.com/)
-- [把Web站點變成App](http://fluidapp.com/)
-- [一个用于修改CSS中URL的库 nzakas大神出品]( https://github.com/nzakas/cssurl)
-- [Raphael JS实现的中国省份热点地图](http://blog.csdn.net/wangjia184/article/details/7341689)
-- [有关HTTPS](http://blog.csdn.net/luocn99/article/details/39777707)
-- [为啥viewport是一个meta标记？](http://www.brucelawson.co.uk/2014/why-is-viewport-in-a-meta-tag/)
-- [表格的ARIA怎么写-link1](http://www.paciellogroup.com/blog/2014/10/notes-on-fixing-incorrect-table-structure-using-aria/)
-- [Instagram工程师教你如何改善App的性能](https://github.com/jiguang/mobile-web-bug-collection)
-- [CSS3 border-images详解](http://beyondweb.cn/article_detail.php?id=63)
-- [关于Unicode和URL encoding入门的一切以及注意事项](http://www.cnblogs.com/hh54188/p/3249904.html)
-- [javascript最佳实践1 主要关于风格方面的，也有一些小小小小的理念值得关注](http://www.thinkful.com/learn/javascript-best-practices-1/)
-- [编写高效的jQuery代码](http://www.css88.com/archives/5240)
-- [WebGL 来袭](http://blog.csdn.net/lufy_legend)
-- [Egret Engine（白鹭引擎）是一款使用TypeScript语言构建的开源免费的移动游戏引擎。白鹭引擎的核心定位是开放，高效，优雅。通过它，你可以快速地创建HTML5类型- 的移动游戏，也可以将游戏项目编译输出成为目标移动平台的原生游戏应用。](http://www.egret-labs.org/)
-- [这是一个基于CSS的幻灯片系统，在开发者和设计师圈子中很流行。她提供了一些设计，你可以基于这些设计做一些快速的修改。](http://www.oschina.net/news/26182/6-best-html5-css3-ppt-tools)
-- [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
-- [《docker从入门到实践》](http://www.dockerpool.com/static/books/docker_practice/index.html)
-- [所有浏览器的media query](http://blog.templatemonster.com/2014/10/14/css-media-queries-for-all-devices-and-browsers-- including-ie7-and-ie8/)
-- [HTTP head区各种奇怪的东东汇总](http://blog.jobbole.com/78592/)
-- [技术产品相关的图标](http://vorillaz.github.io/devicons/#/dafont)
-- [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
-- [SVG动画指南](http://css-tricks.com/guide-svg-animations-smil/)
-- [一大波福利 历界HTML5峰会PPT](http://wenku.baidu.com/topic/HTML5FH.html)
-- [纯CSS完成用户行为跟踪（利用元素状态)](http://www.smashingmagazine.com/2014/10/16/css-only-solution-for-ui-tracking/)
-- [menu和menuItem](http://webdesign.tutsplus.com/tutorials/introducing-the-html5-menu-and-menuitem-elements--cms-22269)
-- [最佳sublime text插件推荐](http://ipestov.com/the-best-plugins-for-sublime-text/)
-- [Web 性能優化集錦](https://github.com/davidsonfellipe/awesome-wpo)
-- [JavaScript的生与死](http://v.youku.com/v_show/id_XODAzOTY1MTM2.html)
-- [FluidApp快速将网站封装成Mac下的App](http://fluidapp.com/)
-- [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/Homebrew/README.html)
-- [Yosemite-icons(PS:fe吹水群@北京－前端菜鸟出品)](https://dribbble.com/shots/1788617-Yosemite-icons)
-- [要做移动前端优化的朋友进来看看吧](http://www.cnblogs.com/yexiaochai/p/3759959.html#!comments)
-- [单元测试js调用](https://www.tenpay.com/v2/labs/wrtb/index.shtml)    
-- [CSS3动画帧数科学计算法](http://tid.tenpay.com/?p=5983) 
-- [分辨图片质量](http://daily.zhihu.com/story/4224784?utm_campaign=in_app_share&utm_medium=iOS&utm_source=qq)
-- [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
-- [很炫的滚动效果](http://lab.hakim.se/scroll-effects/)
-- [前端编码规范](https://github.com/ecomfe/spec)
-- [一个window.fetch的polyfill](https://github.com/github/fetch)
-- [分享浏览器的二三事](http://developer.51cto.com/art/201311/418133.htm)
-- [分享一个非常好用的在线格式转换网站](http://www.zamzar.com/)
-- [Turn ES6 code into readable vanilla ES5 with source maps](https://github.com/sebmck/6to5) 
-- [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
-- [不错的手机端插件](http://www.idangero.us/sliders/swiper/)
-- [Web 前端攻防（2014版）](http://blog.jobbole.com/76068/)
-- [浏览器内建支持的响应式图像](http://zhuanlan.zhihu.com/FrontendMagazine/19858945)
-- [使ifram看起来看文档的一部分](http://caniuse.com/#search=seamless> <http://www.w3schools.com/tags/att_iframe_seamless.asp)
-- [The jQuery HTML5 Audio / Video Library](http://www.jplayer.org/)
-- [css-loaders](http://projects.lukehaas.me/css-loaders/)
-- [chrome devtoolstips视频教程](http://devtoolstips.com/)
-- [CSS3 3D视差效果](http://keithclark.co.uk/articles/pure-css-parallax-websites/demo3/)
-- [webpack is a bundler for modules](http://webpack.github.io/)
-- [24 JavaScript Best - Practices for Beginners](http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
-- [call和apply性能对比](http://blog.csdn.net/zhengyinhui100/article/details/7837127)
-- [GitHub的JavaScript代码规范](http://hao.jobbole.com/github-javascript-styleguide/)
-- [前端路由](https://github.com/mtrpcic/pathjs)
-- [Manymo is a servicemark](https://www.manymo.com/emulators)
-- [How To Setup Your Own VPN With PPTP](https://www.digitalocean.com/community/tutorials/how-to-setup-your-own-vpn-with-pptp)
-- [学习git常用命令](http://gitlib.com/)
-- [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
-- [@ocean用fullPage.js做的页面](http://www.cugmyt.cn/freshmen/ad) 
-- [ajax loader gif在线生成](http://www.ajaxload.info/)
-- [JavaScript 3D library](http://threejs.org)
-- [RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).](http://www.regexr.com/)
-- [用于查看http网络请求的工具，调试的时候把请求发到这里，立马就能看到请求的详细情况](http://requestb.in/)
-- [AngularJS from beginner to expert in 7 steps series](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
-- [CSS3 text animations](https://github.com/jschr/textillate)
-- [Review of Popular Web Font Embedding Services](http://www.smashingmagazine.com/2010/10/20/review-of-popular-web-font-embedding-services/)
-- [Github干货系列：Web性能优化](http://top.jobbole.com/15613/)
-- [雅虎军规英文版](https://developer.yahoo.com/performance/rules.html)
-- [百度翻译word-wrap，页面错乱原因查找过程(已修复)](http://www.cnblogs.com/samwu/p/4061019.html)
-- [blendif how to build the icon in Photoshop](http://bjango.com/articles/blendif/)
-- [Creating a mobile app from a simple HTML site](https://hacks.mozilla.org/2014/10/creating-a-mobile-app-from-a-simple-html-site/)
-- [http://retinizer.mikelpr.com/](http://retinizer.mikelpr.com/)
-- [Front-end Code Standards & Best Practices](http://isobar-idev.github.io/code-standards/)
-- [jQuery 3.0: The Next Generations](http://blog.jquery.com/2014/10/29/jquery-3-0-the-next-generations/)
-
-> 原因是1.x和2.x都不遵守semver版本号规范，3.0开始遵守semver规范。
-> 摘要：
-> 1. 3.0第一个版本和目前的1.x/2.x 一样，没有额外迁移成本
-> 2. 3.0分为jquery-compact和jquery两个版本，分别对应1.x/2.x
-> 3. 升级策略：后续两个版本的版本号完全一尽，API完全一致，jquery只兼容主流浏览器最新2个版本，jquery-compact尽可能多兼容浏览器
-
-- [ Chrome 探测器，可以探测正在使用的开源软件或者 js 类库，开发者必备](https://github.com/justjavac/ChromeSnifferPlus)
-- [Pure CSS Percentage Circle](http://circle.firchow.net/)
-- [NgNice站点是由一批AngularJS爱好者发起的，致力于打造一个AngularJS的学习和经验分享平台](https://github.com/angular-cn/ng-nice)
-- [The Best Plugins for Sublime Text](http://ipestov.com/the-best-plugins-for-sublime-text/)
-- [【朴灵评注】JavaScript 运行机制详解：再谈Event Loop](https://app.yinxiang.com/shard/s8/sh/b72fe246-a89d-434b-85f0-a36420849b84/59bad790bdcf6b0a66b8b93d5eacbead)
++ **[Github语法](https://help.github.com/articles/github-flavored-markdown)**
++ **[基本语法](https://github.com/wangqianfront/markdown-syntax/blob/master/basics.md)**
++ **[语法提示](https://github.com/wangqianfront/markdwon-syntax/blob/master/syntax.md)**
++ **[Markdown PDF](https://github.com/alanshaw/markdown-pdf)**
 
 
+編輯器
+-----
 
-[分享到QQ好友和群](http://connect.qq.com/widget/shareqq/index.html?url=https://github.com/fenbility/daily-welfare/blob/master/2014-09.md&title=Fenbility daily-welfare)
+### 寫作用編輯器
+* OSX
+  * [Byword](http://bywordapp.com/)
+  * [iA Writer](http://www.iawriter.com/mac/)
+  * [Mouapp](http://mouapp.com/)
+  * [TEXTS](http://www.texts.io/)
+  * [Kobito](http://kobito.qiita.com/)
+* Linux
+  * [ReText](http://sourceforge.net/p/retext/home/ReText/)
+  * [UberWriter](http://uberwriter.wolfvollprecht.de/)
+* Windows
+  * [MarkdownPad](http://markdownpad.com/)
+  * [TEXTS](http://www.texts.io/)
+* iOS
+  * [Byword](http://bywordapp.com/)
+  * [iA Writer for iPad](http://www.iawriter.com/ipad/)
+  * [iA Writer for iPhone](http://www.iawriter.com/iphone/)
 
-> 每日福利&总结 -> 这个库中的内容都是与Web前端相关的资源，全部来自于咱们有爱的FE吹水群。进群后的主要任务是吹水，偶尔发些小福利，我们会将每月的福利汇总到这里。
+### 預覽
+* OSX
+  * [Marked](https://itunes.apple.com/us/app/marked/id448925439)
+
+### 通用文字編輯器 
+* [Sublime Text](http://www.sublimetext.com/)
+* Vim
+  * [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+  * [tpope/vim-markdown](https://github.com/tpope/vim-markdown)
+
+### 網頁文字編輯器
+* [Ace](http://ace.ajax.org/)
+* [CodeMirror](http://codemirror.net/)
+* [Dillinger](http://dillinger.io/)
+* [EpicEditor](http://oscargodson.github.io/EpicEditor/)
+* [Markgiu](https://github.com/bianchimro/markgiu)
+
+### 瀏覽器 Extension
+* [Markdown Here](https://github.com/adam-p/markdown-here/)
+
+擴充版 Markdown
+--------------
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+* [kramdown](http://kramdown.rubyforge.org/quickref.html#headers)
+* [MultiMarkdown](http://fletcherpenney.net/multimarkdown/)
+* [Pandoc's markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown)
+  * [Pandoc’s Markdown 語法中文翻譯](http://pages.tzengyuxio.me/pandoc/) 
+* [PHP Markdown Extra](http://michelf.ca/projects/php-markdown/extra/)
+
+引擎
+----
+* C
+  * [Sundown](https://github.com/vmg/sundown) 
+* JavaScript
+  * [showdown](https://github.com/cky/wmd), not maintained any more
+  * [pagedown](https://code.google.com/p/pagedown/), StackOverflow
+  * [coreyti/showdown](https://github.com/coreyti/showdown)
+  * [marked](https://github.com/chjj/marked)
+* PHP
+  * [PHP Markdown](http://michelf.ca/projects/php-markdown/)
+* Ruby
+  * [Redcarpet](https://github.com/vmg/redcarpet) 
+  * [Maruku](https://github.com/bhollis/maruku)
+
+Blog 服務
+---------
+
+* [WordPress.com](http://wordpress.com/)
+* [logdown](http://logdown.com/)
+
+Blog 系統
+---------
+* [WordPress](http://wordpress.org/)
+* [MOVABLETYPE](http://www.movabletype.org/)
+
+CSS
+---
+* [Markdown css themes](http://jasonm23.github.io/markdown-css-themes/)
+* [Markdown.css](http://mrcoles.com/demo/markdown-css/)
+
+其他工具
+--------
+* [Doxygen](http://www.stack.nl/~dimitri/doxygen/manual/markdown.html)
+* Sublime Text 2/3  - markdown preview plugin
+
+標準
+----
+* [Markdown](http://daringfireball.net/projects/markdown/)
+* [The Future of Markdown](http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html)
+* [W3C Markdown Community Group](http://www.w3.org/community/markdown/)
+* [W3C Markdown Community Group wiki](http://www.w3.org/community/markdown/wiki/Main_Page)
