@@ -83,10 +83,10 @@
 - [jQuery 3.0: The Next Generations](http://blog.jquery.com/2014/10/29/jquery-3-0-the-next-generations/)
 - 原因是1.x和2.x都不遵守semver版本号规范，3.0开始遵守semver规范。
 
-- 摘要：
-- 1， 3.0第一个版本和目前的1.x/2.x 一样，没有额外迁移成本
-- 2， 3.0分为jquery-compact和jquery两个版本，分别对应1.x/2.x
-- 3， 升级策略：后续两个版本的版本号完全一尽，API完全一致，jquery只兼容主流浏览器最新2个版本，jquery-compact尽可能多兼容浏览器
+> 摘要：
+1、3.0第一个版本和目前的1.x/2.x 一样，没有额外迁移成本
+2、3.0分为jquery-compact和jquery两个版本，分别对应1.x/2.x
+3、升级策略：后续两个版本的版本号完全一尽，API完全一致，jquery只兼容主流浏览器最新2个版本，jquery-compact尽可能多兼容浏览器
 
 - [ Chrome 探测器，可以探测正在使用的开源软件或者 js 类库，开发者必备](https://github.com/justjavac/ChromeSnifferPlus)
 - [Pure CSS Percentage Circle](http://circle.firchow.net/)
