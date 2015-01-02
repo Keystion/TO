@@ -7,10 +7,10 @@ Markdown 语法使用说明
 + **[Markdown PDF](https://github.com/alanshaw/markdown-pdf)**
 
 
-編輯器
+编辑器
 -----
 
-### 寫作用編輯器
+### 写作用编辑器
 * OSX
   * [Byword](http://bywordapp.com/)
   * [iA Writer](http://www.iawriter.com/mac/)
@@ -28,27 +28,27 @@ Markdown 语法使用说明
   * [iA Writer for iPad](http://www.iawriter.com/ipad/)
   * [iA Writer for iPhone](http://www.iawriter.com/iphone/)
 
-### 預覽
+### 预览
 * OSX
   * [Marked](https://itunes.apple.com/us/app/marked/id448925439)
 
-### 通用文字編輯器 
+### 通用文字编辑器 
 * [Sublime Text](http://www.sublimetext.com/)
 * Vim
   * [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
   * [tpope/vim-markdown](https://github.com/tpope/vim-markdown)
 
-### 網頁文字編輯器
+### 网页文字编辑器
 * [Ace](http://ace.ajax.org/)
 * [CodeMirror](http://codemirror.net/)
 * [Dillinger](http://dillinger.io/)
 * [EpicEditor](http://oscargodson.github.io/EpicEditor/)
 * [Markgiu](https://github.com/bianchimro/markgiu)
 
-### 瀏覽器 Extension
+### 浏览器 Extension
 * [Markdown Here](https://github.com/adam-p/markdown-here/)
 
-擴充版 Markdown
+扩充版 Markdown
 --------------
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 * [kramdown](http://kramdown.rubyforge.org/quickref.html#headers)
@@ -72,13 +72,13 @@ Markdown 语法使用说明
   * [Redcarpet](https://github.com/vmg/redcarpet) 
   * [Maruku](https://github.com/bhollis/maruku)
 
-Blog 服務
+Blog 服务
 ---------
 
 * [WordPress.com](http://wordpress.com/)
 * [logdown](http://logdown.com/)
 
-Blog 系統
+Blog 系统
 ---------
 * [WordPress](http://wordpress.org/)
 * [MOVABLETYPE](http://www.movabletype.org/)
@@ -93,7 +93,7 @@ CSS
 * [Doxygen](http://www.stack.nl/~dimitri/doxygen/manual/markdown.html)
 * Sublime Text 2/3  - markdown preview plugin
 
-標準
+标准
 ----
 * [Markdown](http://daringfireball.net/projects/markdown/)
 * [The Future of Markdown](http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html)
