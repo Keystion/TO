@@ -3,56 +3,56 @@
 
 ## Abount
 
-[Taobao](http://www.taobao.com/)首页`console`出现的26个招聘单词；这里就是个人对这26个单词的简要概述；
+[[Taobao](http://www.taobao.com/)首页`console`出现的26个招聘单词；这里就是个人对这26个单词的简要概述
 
-`Angular`
+[`Angular`](/Angular)
 
-`Backbone` 
+[`Backbone`](/Backbone)
 
-`Console` 
+[`Console`](/Console)
 
-`Dir` 
+[`Dir`](/Dir)
 
-`Express` 
+[`Express`](/Express)
 
-`Fork` 
+[`Fork`](/Fork)
 
-`Grunt` 
+[`Grunt`](/Grunt)
 
-`Haslayout` 
+[`Haslayout`](/Haslayout)
 
-`Iconfont` 
+[`Iconfont`](/Iconfont)
 
-`Jsonp` 
+[`Jsonp`](/Jsonp)
 
-`Kissy` 
+[`Kissy`](/Kissy)
 
-`Localstorage` 
+[`Localstorage`](/Localstorage)
 
-`Media query` 
+[`Media query`](/Media query)
 
-`Npm` 
+[`Npm`](/Npm)
 
-`Opacity` 
+[`Opacity`](/Opacity)
 
-`Prototype` 
+[`Prototype`](/Prototype)
 
-`Querystring` 
+[`Querystring`](/Querystring)
 
-`Referer` 
+[`Referer`](/Referer)
 
-`Seajs` 
+[`Seajs`](/Seajs)
 
-`Trim` 
+[`Trim`](/Trim)
 
-`Underscore` 
+[`Underscore`](/Underscore)
 
-`Vim` 
+[`Vim`](/Vim)
 
-`Worker` 
+[`Worker`](/Worker)
 
-`Xss` 
+[`Xss`](/Xss)
 
-`Yslow` 
+[`Yslow`](/Yslow)
 
-`Zepto`
+[`Zepto](/Zept)
