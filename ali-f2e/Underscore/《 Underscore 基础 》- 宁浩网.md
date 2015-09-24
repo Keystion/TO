@@ -1,3 +1,38 @@
+- 目录
+ - 介绍
+ - 准备
+- 集合
+ - 集合 - 循环处理列表中的每一个项目 - each
+ - 遍历列表项目生成新的处理之后的列表 - map
+ - 把列表里的所有值转换成一个值 - reduce
+ - 查找，过滤，反过滤 - find, filter, reject
+ - 找到包含特定属性和值的项目 - where, findWhere
+ - 判断列表里的项目 - every, some, contains
+ - 挑出列表里面的指定属性的值 - pluck
+ - 找出列表里面值最大或最小的项目 - max, min
+ - 排序 - sortBy
+ - 分组 - groupBy
+ - 分组计数 - countBy
+ - 随机与取样 - shuffle, sample
+- 数组
+ - 数组 - 从数组里挑选项目 - first, last, initial, rest, without
+ - 把数组分割成两部分 - partition
+ - 并集，交集，差集 - union, intersection, difference
+ - 去掉数组里面的重复的项目 - uniq
+ - 找出指定值的项目在数组中的位置 - indexOf, lastIndexOf
+ - 测试即将插入到数组里的项目的位置 - sortedIndex
+- 函数
+ - 函数 - 为函数绑定对象 - bind
+ - 把对象里的一些方法绑定到对象上 - bindAll
+ - 延时执行函数 - delay
+ - 你继续，我先等会儿 - defer
+ - 防止滥用- throttle
+ - 只能执行一次的函数 - once
+- 其它
+ - 对象 - keys, values, pick, omit
+ - 链式调用 - chain
+
+
 ### 目录
 
 #### 介绍
