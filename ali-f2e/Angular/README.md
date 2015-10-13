@@ -7,3 +7,8 @@
 - 测试；
 - 单页面应用；
 - ......
+
+#### Api
+
+- [https://docs.angularjs.org/api](https://docs.angularjs.org/api)（English）
+- [http://docs.ngnice.com/api](http://docs.ngnice.com/api)（简体中文）
