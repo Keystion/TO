@@ -1,4 +1,4 @@
-#### AngularJs **[site](https://angularjs.org/)**
+#### AngularJs - [官网](https://angularjs.org/)
 
 - 解耦应用逻辑，数据模型和视图；
 - Ajax服务；
