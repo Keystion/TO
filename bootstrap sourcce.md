@@ -1,0 +1,88 @@
+# Bootstrap Sass 源文件 相关
+
+时间: 2015.1.25
+
+bootstrap 源码解析
+
+- _bootstrap-compass.scss
+- _bootstrap-mincer.scss
+- _bootstrap-sprockets.scss
+- _bootstrap.scss
+- bootstrap 主体 
+    - _alerts.scss 警告信息
+    - _badges.scss 徽章 消息提示
+    - _breadcrumbs.scss 面包屑
+    - _button-groups.scss 按钮组
+    - _buttons.scss 按钮
+    - _carousel.scss 旋转木马
+    - _close.scss 关闭Icon
+    - _code.scss 代码块
+    - _component-animations.scss animations动画
+    - _dropdowns.scss 下拉菜单
+    - _forms.scss form表单
+    - _glyphicons.scss 字体图标
+    - _grid.scss 栅格系统
+    - _input-groups.scss 输入框相关
+    - _jumbotron.scss 巨幕 大块div
+    - _labels.scss 标签相关
+    - _list-group.scss 列表组
+    - _media.scss 响应式相关
+    - _mixins.scss mixins 相关
+    - _modals.scss 模态框 模式对话框 弹出对话框的形式出现
+    - _navbar.scss 导航栏
+    - _navs.scss 导航 Tab 切换相关
+    - _normalize.scss 处理浏览器之间差异
+    - _pager.scss 翻页 上一页下一页
+    - _pagination.scss 分页（多页）
+    - _panels.scss 面板 标题内容
+    - _popovers.scss 弹出框 上下左右弹窗
+    - _print.scss 打印样式
+    - _progress-bars.scss 进度条
+    - _responsive-embed.scss 响应式特性的嵌入内容 iframe video embed obiect
+    - _responsive-utilities.scss 响应式相关
+    - _scaffolding.scss 脚手架
+    - _tables.scss 表格相关
+    - _theme.scss 主题
+    - _thumbnails.scss 缩略图相关
+    - _tooltip.scss 弹出提示条 上下左右
+    - _type.scss 印刷相关
+    - _utilities.scss 工具类 左右浮动 显示/隐藏
+    - _variables.scss 常用变量
+    - _wells.scss 
+    - mixins mixin相关 
+        - _alerts.scss 警告
+        - _background-variant.scss 背景颜色
+        - _border-radius.scss 圆角边框
+        - _buttons.scss 按钮
+        - _center-block.scss 居中对齐的块级元素
+        - _clearfix.scss 清除浮动
+        - _forms.scss 表单mixin
+        - _gradients.scss 
+            - 水平渐变
+            - 水平的三色渐变
+            - 垂直渐变
+            - 垂直的三色渐变
+            - 角度渐变
+            - 径向渐变
+            - 条纹渐变
+        - _grid-framework.scss 网格架构
+        - _grid.scss 网格相关 左右边距相关
+        - _hide-text.scss CSS图片替换技术 hide div
+        - _image.scss 图片 圆角图片
+        - _labels.scss 标签
+        - _list-group.scss 列表组
+        - _nav-divider.scss 分割线 存在导航栏 和 下拉菜单中
+        - _nav-vertical-align.scss nav垂直居中
+        - _opacity.scss 不透明度
+        - _pagination.scss 分页
+        - _panels.scss 面板
+        - _progress-bar.scss 进度条
+        - _reset-filter.scss 重置IE滤镜 filter
+        - _resize.scss 是否可由用户调整元素尺寸等
+        - _responsive-visibility.scss 响应式之后 显示
+        - _size.scss 设置一个块级元素宽和高
+        - _tab-focus.scss WebKit-style 风格 焦点效果
+        - _table-row.scss 表格背景色
+        - _text-emphasis.scss 文字颜色
+        - _text-overflow.scss 文本溢出
+        - _vendor-prefixes.scss 浏览器前缀 for 新属性
